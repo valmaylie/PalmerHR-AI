@@ -1,0 +1,4 @@
+applicant_id,posisi,pendidikan_cv,cv,surat_lamaran,ijazah,sertifikat_wajib
+PEL001,Admin Kebun,D3 Administrasi,Ada,Ada,Ada,Tidak ada
+PEL002,Operator Pabrik,SMK,Ada,Ada,Ada,Ada
+PEL003,Admin Kebun,SMA,Ada,Tidak ada,Ada,Tidak ada

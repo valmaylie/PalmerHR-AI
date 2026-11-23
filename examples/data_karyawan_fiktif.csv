@@ -1,0 +1,6 @@
+employee_id,tanggal,unit,shift,jam_masuk,jam_pulang,status
+EMP001,2026-10-01,Kebun A,Pagi,07:02,16:00,Hadir
+EMP002,2026-10-01,Pabrik,Pagi,06:55,15:00,Hadir
+EMP003,2026-10-01,Kantor,Reguler,,,Izin
+EMP001,2026-10-02,Kebun A,Pagi,07:00,16:03,Hadir
+EMP002,2026-10-02,Pabrik,Pagi,06:58,15:02,Hadir
