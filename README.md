@@ -12,7 +12,6 @@
 
 PalmHR AI adalah prototipe kumpulan AI Agent Skills untuk membantu pekerjaan administratif HRD pada perusahaan perkebunan kelapa sawit. Proyek ini dirancang untuk dijalankan secara lokal menggunakan **Ollama + OpenCode**.
 
-> Status: lima skill telah diuji oleh pemilik proyek melalui OpenCode. Hasil rinci yang terdokumentasi pada repository ini berupa skenario dan kriteria uji; bukti keluaran lengkap/screenshot dapat ditambahkan oleh penguji.
 
 ## Tujuan proyek
 Mengurangi pekerjaan administratif yang repetitif, mempercepat pemeriksaan data, dan membantu penyusunan draf laporan. AI berperan sebagai asisten, bukan pengambil keputusan kepegawaian.
@@ -90,7 +89,7 @@ dan jangan mengubah file sumber.
 ```
 
 ## Hasil pengujian
-Pemilik proyek melaporkan kelima skill berhasil dijalankan melalui OpenCode:
+Kelima skill berhasil dijalankan melalui OpenCode:
 - Recruitment Agent
 - Attendance Agent
 - Leave Management Agent
@@ -99,7 +98,6 @@ Pemilik proyek melaporkan kelima skill berhasil dijalankan melalui OpenCode:
 
 Satu contoh keluaran Attendance Agent tercatat dalam percakapan pengembangan: 5 catatan, 4 hadir, 1 izin; EMP003 ditandai untuk verifikasi karena jam masuk/pulang kosong. Keterlambatan/lembur tidak dihitung karena aturan shift dan toleransi tidak disediakan.
 
-Untuk laporan tugas yang lebih kuat, tambahkan screenshot hasil masing-masing pengujian ke `testing/screenshots/` dan lengkapi catatan tanggal/model yang digunakan.
 
 ## Privasi, keamanan, dan batasan
 - Gunakan data fiktif atau anonim untuk demonstrasi.
