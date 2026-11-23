@@ -2,6 +2,12 @@
   <img src="assets/palmhr-banner.png" alt="PalmHR AI Banner" width="100%">
 </p>
 
+## Project Preview
+
+<p align="center">
+  <img src="Screenshot_20261123_173710.png" alt="PalmHR AI Preview" width="85%">
+</p>
+
 # PalmHR AI — AI Agent Skills untuk HRD Perusahaan Kelapa Sawit# PalmHR AI — AI Agent Skills untuk HRD Perusahaan Kelapa Sawit
 
 PalmHR AI adalah prototipe kumpulan AI Agent Skills untuk membantu pekerjaan administratif HRD pada perusahaan perkebunan kelapa sawit. Proyek ini dirancang untuk dijalankan secara lokal menggunakan **Ollama + OpenCode**.
